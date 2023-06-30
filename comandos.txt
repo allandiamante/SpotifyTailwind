@@ -1,0 +1,2 @@
+Startando aplicação
+pnpm dev
